@@ -4,6 +4,7 @@ Small, honest open-source tools. Every claim in them points at its evidence: a q
 
 | Project | What it is | |
 |---|---|---|
+| **[Will it run on a Mac?](https://github.com/barbarkaragul-oss/will-it-run-on-a-mac)** | Paste a shell script, see every flag that does not exist on macOS or BusyBox, with that platform's own man page line and a real run as proof. Every flag of 81 tools and 86 find primaries is executed on real Ubuntu, macOS and Alpine runners weekly. | [open](https://barbarkaragul-oss.github.io/will-it-run-on-a-mac/) |
 | **[Why didn't my job run?](https://github.com/barbarkaragul-oss/why-didnt-my-job-run)** | Paste a GitHub Actions workflow, pick the event, see which jobs run and why. GitHub's own workflow parser and expression engine, running in your browser; checked against 65 recorded real runs. | [open](https://barbarkaragul-oss.github.io/why-didnt-my-job-run/) |
 | **[PrivacyMatrix](https://github.com/barbarkaragul-oss/privacymatrix)** | Does this AI app train on your chats? 28 assistants × 14 privacy questions; every cell quotes the vendor's own policy and is re-checked against its source weekly. | [open](https://barbarkaragul-oss.github.io/privacymatrix/) |
 | **[AgentMatrix](https://github.com/barbarkaragul-oss/agentmatrix)** | A cited feature matrix of AI coding agent CLIs; every cell quotes the vendor's documentation and is re-checked weekly. | [open](https://barbarkaragul-oss.github.io/agentmatrix/) |
