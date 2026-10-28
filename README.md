@@ -8,6 +8,7 @@ Small, honest open-source tools. Every claim in them points at its evidence: a q
 | **[Why didn't my job run?](https://github.com/barbarkaragul-oss/why-didnt-my-job-run)** | Paste a GitHub Actions workflow, pick the event, see which jobs run and why. GitHub's own workflow parser and expression engine, running in your browser; checked against 65 recorded real runs. | [open](https://barbarkaragul-oss.github.io/why-didnt-my-job-run/) |
 | **[PrivacyMatrix](https://github.com/barbarkaragul-oss/privacymatrix)** | Does this AI app train on your chats? 28 assistants × 14 privacy questions; every cell quotes the vendor's own policy and is re-checked against its source weekly. | [open](https://barbarkaragul-oss.github.io/privacymatrix/) |
 | **[AgentMatrix](https://github.com/barbarkaragul-oss/agentmatrix)** | A cited feature matrix of AI coding agent CLIs; every cell quotes the vendor's documentation and is re-checked weekly. | [open](https://barbarkaragul-oss.github.io/agentmatrix/) |
+| [AgentWall](https://github.com/barbarkaragul-oss/agentwall) | Zero-dependency Go runtime firewall, secret DLP, and process sandbox for AI agents and MCP servers; inspects JSON-RPC stdio in < 20 us with unit-tested redaction rules. | [open](https://github.com/barbarkaragul-oss/agentwall) |
 
 [wdmjr-fixtures](https://github.com/barbarkaragul-oss/wdmjr-fixtures) holds the real GitHub Actions runs the simulator is tested against; every run is visible under its Actions tab.
 
